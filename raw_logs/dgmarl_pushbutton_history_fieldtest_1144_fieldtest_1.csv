@@ -1,0 +1,15 @@
+datetime,node,signal_group,push_button pressed,request status
+2023-10-13 18:36:47.792000,1,2,1,Button Pressed
+2023-10-13 18:36:55.393000,1,2,1,Serving Push_Button Request
+2023-10-13 18:36:55.693000,1,2,1,Next Button Pressed to current
+2023-10-13 18:37:32.298000,1,2,1,Serving Push_Button Request
+2023-10-13 18:37:19.652000,2,4,1,Button Pressed
+2023-10-13 18:37:21.053000,2,4,1,Serving Push_Button Request
+2023-10-13 18:38:00.157000,2,4,1,Next Button Pressed to current
+2023-10-13 18:38:12.560000,2,4,1,Serving Push_Button Request
+2023-10-13 18:39:16.175000,2,4,1,Button Pressed
+2023-10-13 18:37:26.420000,3,4,1,Button Pressed
+2023-10-13 18:37:49.422000,3,4,1,Serving Push_Button Request
+2023-10-13 18:38:15.627000,3,4,1,Next Button Pressed to current
+2023-10-13 18:38:42.035000,3,4,1,Serving Push_Button Request
+2023-10-13 18:30:46.721000,5,2,1,Button Pressed

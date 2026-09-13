@@ -1,0 +1,39 @@
+datetime,node,signal_group,push_button pressed,request status
+2023-10-11 15:56:19.642000,2,4,1,Button Pressed
+2023-10-11 15:56:39.548000,2,4,1,Serving Push_Button Request
+2023-10-11 15:57:18.561000,2,4,1,Next Button Pressed to current
+2023-10-11 15:57:55.972000,2,4,1,Serving Push_Button Request
+2023-10-11 15:58:55.397000,2,4,1,Button Pressed
+2023-10-11 15:59:33.119000,2,4,1,Serving Push_Button Request
+2023-10-11 16:00:12.241000,2,4,1,Next Button Pressed to current
+2023-10-11 15:58:14.726000,3,4,1,Button Pressed
+2023-10-11 15:58:22.129000,3,4,1,Serving Push_Button Request
+2023-10-11 15:58:51.342000,3,4,1,Next Button Pressed to current
+2023-10-11 15:59:33.366000,3,4,1,Serving Push_Button Request
+2023-10-11 16:00:02.483000,3,4,1,Next Button Pressed to current
+2023-10-11 15:55:17.857000,5,2,1,Button Pressed
+2023-10-11 15:56:18.281000,5,2,1,Serving Push_Button Request
+2023-10-11 15:56:40.388000,5,4,1,Next Button Pressed to current
+2023-10-11 15:56:45.491000,5,4,1,Serving Push_Button Request
+2023-10-11 15:57:13.501000,5,2,1,Next Button Pressed to current
+2023-10-11 15:57:18.501000,5,2,1,Serving Push_Button Request
+2023-10-11 15:57:40.607000,5,4,1,Next Button Pressed to current
+2023-10-11 15:57:45.709000,5,4,1,Serving Push_Button Request
+2023-10-11 15:58:13.619000,5,2,1,Next Button Pressed to current
+2023-10-11 15:58:18.721000,5,2,1,Serving Push_Button Request
+2023-10-11 15:58:40.629000,5,4,1,Next Button Pressed to current
+2023-10-11 15:58:45.732000,5,4,1,Serving Push_Button Request
+2023-10-11 15:59:13.747000,5,2,1,Next Button Pressed to current
+2023-10-11 15:59:18.850000,5,2,1,Serving Push_Button Request
+2023-10-11 15:59:40.763000,5,4,1,Next Button Pressed to current
+2023-10-11 15:59:45.865000,5,4,1,Serving Push_Button Request
+2023-10-11 16:00:13.881000,5,2,1,Next Button Pressed to current
+2023-10-11 16:00:18.984000,5,2,1,Serving Push_Button Request
+2023-10-11 15:57:29.518000,7,4,1,Button Pressed
+2023-10-11 15:58:07.630000,7,4,1,Serving Push_Button Request
+2023-10-11 15:58:27.638000,7,4,1,Next Button Pressed to current
+2023-10-11 15:58:58.753000,7,4,1,Serving Push_Button Request
+2023-10-11 15:55:18.958000,8,4,1,Button Pressed
+2023-10-11 15:55:43.868000,8,4,1,Serving Push_Button Request
+2023-10-11 15:56:12.879000,8,4,1,Next Button Pressed to current
+2023-10-11 15:56:45.291000,8,4,1,Serving Push_Button Request
